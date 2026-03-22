@@ -23,6 +23,7 @@ Read this in other languages:
 &middot; [తెలుగు](lang/telugu.md)
 &middot; [正體中文](lang/traditional-chinese.md)
 &middot; [Türkçe](lang/turkish.md)
+&middot; [Українська](lang/ukrainian.md)
 &middot; [isiZulu](lang/zulu.md)
 &middot; [Tiếng Việt](lang/vietnamese.md)
 
