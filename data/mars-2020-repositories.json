@@ -1,0 +1,485 @@
+{
+  "source": "https://docs.github.com/en/account-and-profile/reference/profile-reference#list-of-qualifying-repositories-for-mars-2020-helicopter-contributor-achievement",
+  "checked_on": "2026-09-30",
+  "event_closed": true,
+  "repositories": [
+    {
+      "repository": "torvalds/linux",
+      "version": "3.4",
+      "tag": "v3.4",
+      "repository_url": "https://github.com/torvalds/linux",
+      "tag_url": "https://github.com/torvalds/linux/releases/tag/v3.4"
+    },
+    {
+      "repository": "python/cpython",
+      "version": "3.9.2",
+      "tag": "v3.9.2",
+      "repository_url": "https://github.com/python/cpython",
+      "tag_url": "https://github.com/python/cpython/releases/tag/v3.9.2"
+    },
+    {
+      "repository": "boto/boto3",
+      "version": "1.17.17",
+      "tag": "1.17.17",
+      "repository_url": "https://github.com/boto/boto3",
+      "tag_url": "https://github.com/boto/boto3/releases/tag/1.17.17"
+    },
+    {
+      "repository": "boto/botocore",
+      "version": "1.20.11",
+      "tag": "1.20.11",
+      "repository_url": "https://github.com/boto/botocore",
+      "tag_url": "https://github.com/boto/botocore/releases/tag/1.20.11"
+    },
+    {
+      "repository": "certifi/python-certifi",
+      "version": "2020.12.5",
+      "tag": "2020.12.05",
+      "repository_url": "https://github.com/certifi/python-certifi",
+      "tag_url": "https://github.com/certifi/python-certifi/releases/tag/2020.12.05"
+    },
+    {
+      "repository": "chardet/chardet",
+      "version": "4.0.0",
+      "tag": "4.0.0",
+      "repository_url": "https://github.com/chardet/chardet",
+      "tag_url": "https://github.com/chardet/chardet/releases/tag/4.0.0"
+    },
+    {
+      "repository": "matplotlib/cycler",
+      "version": "0.10.0",
+      "tag": "v0.10.0",
+      "repository_url": "https://github.com/matplotlib/cycler",
+      "tag_url": "https://github.com/matplotlib/cycler/releases/tag/v0.10.0"
+    },
+    {
+      "repository": "elastic/elasticsearch-py",
+      "version": "6.8.1",
+      "tag": "6.8.1",
+      "repository_url": "https://github.com/elastic/elasticsearch-py",
+      "tag_url": "https://github.com/elastic/elasticsearch-py/releases/tag/6.8.1"
+    },
+    {
+      "repository": "ianare/exif-py",
+      "version": "2.3.2",
+      "tag": "2.3.2",
+      "repository_url": "https://github.com/ianare/exif-py",
+      "tag_url": "https://github.com/ianare/exif-py/releases/tag/2.3.2"
+    },
+    {
+      "repository": "kjd/idna",
+      "version": "2.10",
+      "tag": "v2.10",
+      "repository_url": "https://github.com/kjd/idna",
+      "tag_url": "https://github.com/kjd/idna/releases/tag/v2.10"
+    },
+    {
+      "repository": "jmespath/jmespath.py",
+      "version": "0.10.0",
+      "tag": "0.10.0",
+      "repository_url": "https://github.com/jmespath/jmespath.py",
+      "tag_url": "https://github.com/jmespath/jmespath.py/releases/tag/0.10.0"
+    },
+    {
+      "repository": "nucleic/kiwi",
+      "version": "1.3.1",
+      "tag": "1.3.1",
+      "repository_url": "https://github.com/nucleic/kiwi",
+      "tag_url": "https://github.com/nucleic/kiwi/releases/tag/1.3.1"
+    },
+    {
+      "repository": "matplotlib/matplotlib",
+      "version": "3.3.4",
+      "tag": "v3.3.4",
+      "repository_url": "https://github.com/matplotlib/matplotlib",
+      "tag_url": "https://github.com/matplotlib/matplotlib/releases/tag/v3.3.4"
+    },
+    {
+      "repository": "numpy/numpy",
+      "version": "1.20.1",
+      "tag": "v1.20.1",
+      "repository_url": "https://github.com/numpy/numpy",
+      "tag_url": "https://github.com/numpy/numpy/releases/tag/v1.20.1"
+    },
+    {
+      "repository": "opencv/opencv-python",
+      "version": "4.5.1.48",
+      "tag": "48",
+      "repository_url": "https://github.com/opencv/opencv-python",
+      "tag_url": "https://github.com/opencv/opencv-python/releases/tag/48"
+    },
+    {
+      "repository": "python-pillow/Pillow",
+      "version": "8.1.0",
+      "tag": "8.1.0",
+      "repository_url": "https://github.com/python-pillow/Pillow",
+      "tag_url": "https://github.com/python-pillow/Pillow/releases/tag/8.1.0"
+    },
+    {
+      "repository": "pycurl/pycurl",
+      "version": "7.43.0.6",
+      "tag": "REL_7_43_0_6",
+      "repository_url": "https://github.com/pycurl/pycurl",
+      "tag_url": "https://github.com/pycurl/pycurl/releases/tag/REL_7_43_0_6"
+    },
+    {
+      "repository": "pyparsing/pyparsing",
+      "version": "2.4.7",
+      "tag": "pyparsing_2.4.7",
+      "repository_url": "https://github.com/pyparsing/pyparsing",
+      "tag_url": "https://github.com/pyparsing/pyparsing/releases/tag/pyparsing_2.4.7"
+    },
+    {
+      "repository": "pyserial/pyserial",
+      "version": "3.5",
+      "tag": "v3.5",
+      "repository_url": "https://github.com/pyserial/pyserial",
+      "tag_url": "https://github.com/pyserial/pyserial/releases/tag/v3.5"
+    },
+    {
+      "repository": "dateutil/dateutil",
+      "version": "2.8.1",
+      "tag": "2.8.1",
+      "repository_url": "https://github.com/dateutil/dateutil",
+      "tag_url": "https://github.com/dateutil/dateutil/releases/tag/2.8.1"
+    },
+    {
+      "repository": "yaml/pyyaml",
+      "version": "5.4.1",
+      "tag": "5.4.1",
+      "repository_url": "https://github.com/yaml/pyyaml",
+      "tag_url": "https://github.com/yaml/pyyaml/releases/tag/5.4.1"
+    },
+    {
+      "repository": "psf/requests",
+      "version": "2.25.1",
+      "tag": "v2.25.1",
+      "repository_url": "https://github.com/psf/requests",
+      "tag_url": "https://github.com/psf/requests/releases/tag/v2.25.1"
+    },
+    {
+      "repository": "boto/s3transfer",
+      "version": "0.3.4",
+      "tag": "0.3.4",
+      "repository_url": "https://github.com/boto/s3transfer",
+      "tag_url": "https://github.com/boto/s3transfer/releases/tag/0.3.4"
+    },
+    {
+      "repository": "enthought/scimath",
+      "version": "4.2.0",
+      "tag": "4.2.0",
+      "repository_url": "https://github.com/enthought/scimath",
+      "tag_url": "https://github.com/enthought/scimath/releases/tag/4.2.0"
+    },
+    {
+      "repository": "scipy/scipy",
+      "version": "1.6.1",
+      "tag": "v1.6.1",
+      "repository_url": "https://github.com/scipy/scipy",
+      "tag_url": "https://github.com/scipy/scipy/releases/tag/v1.6.1"
+    },
+    {
+      "repository": "benjaminp/six",
+      "version": "1.15.0",
+      "tag": "1.15.0",
+      "repository_url": "https://github.com/benjaminp/six",
+      "tag_url": "https://github.com/benjaminp/six/releases/tag/1.15.0"
+    },
+    {
+      "repository": "enthought/traits",
+      "version": "6.2.0",
+      "tag": "6.2.0",
+      "repository_url": "https://github.com/enthought/traits",
+      "tag_url": "https://github.com/enthought/traits/releases/tag/6.2.0"
+    },
+    {
+      "repository": "urllib3/urllib3",
+      "version": "1.26.3",
+      "tag": "1.26.3",
+      "repository_url": "https://github.com/urllib3/urllib3",
+      "tag_url": "https://github.com/urllib3/urllib3/releases/tag/1.26.3"
+    },
+    {
+      "repository": "python-attrs/attrs",
+      "version": "19.3.0",
+      "tag": "19.3.0",
+      "repository_url": "https://github.com/python-attrs/attrs",
+      "tag_url": "https://github.com/python-attrs/attrs/releases/tag/19.3.0"
+    },
+    {
+      "repository": "CheetahTemplate3/cheetah3",
+      "version": "3.2.4",
+      "tag": "3.2.4",
+      "repository_url": "https://github.com/CheetahTemplate3/cheetah3/",
+      "tag_url": "https://github.com/CheetahTemplate3/cheetah3/releases/tag/3.2.4"
+    },
+    {
+      "repository": "pallets/click",
+      "version": "7.0",
+      "tag": "7.0",
+      "repository_url": "https://github.com/pallets/click",
+      "tag_url": "https://github.com/pallets/click/releases/tag/7.0"
+    },
+    {
+      "repository": "pallets/flask",
+      "version": "1.1.1",
+      "tag": "1.1.1",
+      "repository_url": "https://github.com/pallets/flask",
+      "tag_url": "https://github.com/pallets/flask/releases/tag/1.1.1"
+    },
+    {
+      "repository": "flask-restful/flask-restful",
+      "version": "0.3.7",
+      "tag": "0.3.7",
+      "repository_url": "https://github.com/flask-restful/flask-restful",
+      "tag_url": "https://github.com/flask-restful/flask-restful/releases/tag/0.3.7"
+    },
+    {
+      "repository": "pytest-dev/iniconfig",
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "repository_url": "https://github.com/pytest-dev/iniconfig",
+      "tag_url": "https://github.com/pytest-dev/iniconfig/releases/tag/v1.0.0"
+    },
+    {
+      "repository": "pallets/itsdangerous",
+      "version": "1.1.0",
+      "tag": "1.1.0",
+      "repository_url": "https://github.com/pallets/itsdangerous",
+      "tag_url": "https://github.com/pallets/itsdangerous/releases/tag/1.1.0"
+    },
+    {
+      "repository": "pallets/jinja",
+      "version": "2.10.3",
+      "tag": "2.10.3",
+      "repository_url": "https://github.com/pallets/jinja",
+      "tag_url": "https://github.com/pallets/jinja/releases/tag/2.10.3"
+    },
+    {
+      "repository": "lxml/lxml",
+      "version": "4.4.1",
+      "tag": "lxml-4.4.1",
+      "repository_url": "https://github.com/lxml/lxml",
+      "tag_url": "https://github.com/lxml/lxml/releases/tag/lxml-4.4.1"
+    },
+    {
+      "repository": "Python-Markdown/markdown",
+      "version": "3.1.1",
+      "tag": "3.1.1",
+      "repository_url": "https://github.com/Python-Markdown/markdown",
+      "tag_url": "https://github.com/Python-Markdown/markdown/releases/tag/3.1.1"
+    },
+    {
+      "repository": "pallets/markupsafe",
+      "version": "1.1.1",
+      "tag": "1.1.1",
+      "repository_url": "https://github.com/pallets/markupsafe",
+      "tag_url": "https://github.com/pallets/markupsafe/releases/tag/1.1.1"
+    },
+    {
+      "repository": "pypa/packaging",
+      "version": "19.2",
+      "tag": "19.2",
+      "repository_url": "https://github.com/pypa/packaging",
+      "tag_url": "https://github.com/pypa/packaging/releases/tag/19.2"
+    },
+    {
+      "repository": "pexpect/pexpect",
+      "version": "4.7.0",
+      "tag": "4.7.0",
+      "repository_url": "https://github.com/pexpect/pexpect",
+      "tag_url": "https://github.com/pexpect/pexpect/releases/tag/4.7.0"
+    },
+    {
+      "repository": "pytest-dev/pluggy",
+      "version": "0.13.0",
+      "tag": "0.13.0",
+      "repository_url": "https://github.com/pytest-dev/pluggy",
+      "tag_url": "https://github.com/pytest-dev/pluggy/releases/tag/0.13.0"
+    },
+    {
+      "repository": "pexpect/ptyprocess",
+      "version": "0.6.0",
+      "tag": "0.6.0",
+      "repository_url": "https://github.com/pexpect/ptyprocess",
+      "tag_url": "https://github.com/pexpect/ptyprocess/releases/tag/0.6.0"
+    },
+    {
+      "repository": "pytest-dev/py",
+      "version": "1.8.0",
+      "tag": "1.8.0",
+      "repository_url": "https://github.com/pytest-dev/py",
+      "tag_url": "https://github.com/pytest-dev/py/releases/tag/1.8.0"
+    },
+    {
+      "repository": "pyparsing/pyparsing",
+      "version": "2.4.5",
+      "tag": "pyparsing_2.4.5",
+      "repository_url": "https://github.com/pyparsing/pyparsing",
+      "tag_url": "https://github.com/pyparsing/pyparsing/releases/tag/pyparsing_2.4.5"
+    },
+    {
+      "repository": "pytest-dev/pytest",
+      "version": "5.3.0",
+      "tag": "5.3.0",
+      "repository_url": "https://github.com/pytest-dev/pytest",
+      "tag_url": "https://github.com/pytest-dev/pytest/releases/tag/5.3.0"
+    },
+    {
+      "repository": "stub42/pytz",
+      "version": "2019.3",
+      "tag": "release_2019.3",
+      "repository_url": "https://github.com/stub42/pytz",
+      "tag_url": "https://github.com/stub42/pytz/releases/tag/release_2019.3"
+    },
+    {
+      "repository": "uiri/toml",
+      "version": "0.10.0",
+      "tag": "0.10.0",
+      "repository_url": "https://github.com/uiri/toml",
+      "tag_url": "https://github.com/uiri/toml/releases/tag/0.10.0"
+    },
+    {
+      "repository": "pallets/werkzeug",
+      "version": "0.16.0",
+      "tag": "0.16.0",
+      "repository_url": "https://github.com/pallets/werkzeug",
+      "tag_url": "https://github.com/pallets/werkzeug/releases/tag/0.16.0"
+    },
+    {
+      "repository": "dmnfarrell/tkintertable",
+      "version": "1.2",
+      "tag": "v1.2",
+      "repository_url": "https://github.com/dmnfarrell/tkintertable",
+      "tag_url": "https://github.com/dmnfarrell/tkintertable/releases/tag/v1.2"
+    },
+    {
+      "repository": "wxWidgets/wxPython-Classic",
+      "version": "2.9.1.1",
+      "tag": "wxPy-2.9.1.1",
+      "repository_url": "https://github.com/wxWidgets/wxPython-Classic",
+      "tag_url": "https://github.com/wxWidgets/wxPython-Classic/releases/tag/wxPy-2.9.1.1"
+    },
+    {
+      "repository": "nasa/fprime",
+      "version": "1.3",
+      "tag": "NASA-v1.3",
+      "repository_url": "https://github.com/nasa/fprime",
+      "tag_url": "https://github.com/nasa/fprime/releases/tag/NASA-v1.3"
+    },
+    {
+      "repository": "nucleic/cppy",
+      "version": "1.1.0",
+      "tag": "1.1.0",
+      "repository_url": "https://github.com/nucleic/cppy",
+      "tag_url": "https://github.com/nucleic/cppy/releases/tag/1.1.0"
+    },
+    {
+      "repository": "opencv/opencv",
+      "version": "4.5.1",
+      "tag": "4.5.1",
+      "repository_url": "https://github.com/opencv/opencv",
+      "tag_url": "https://github.com/opencv/opencv/releases/tag/4.5.1"
+    },
+    {
+      "repository": "curl/curl",
+      "version": "7.72.0",
+      "tag": "curl-7_72_0",
+      "repository_url": "https://github.com/curl/curl",
+      "tag_url": "https://github.com/curl/curl/releases/tag/curl-7_72_0"
+    },
+    {
+      "repository": "madler/zlib",
+      "version": "1.2.11",
+      "tag": "v1.2.11",
+      "repository_url": "https://github.com/madler/zlib",
+      "tag_url": "https://github.com/madler/zlib/releases/tag/v1.2.11"
+    },
+    {
+      "repository": "apache/lucene",
+      "version": "7.7.3",
+      "tag": "releases/lucene-solr/7.7.3",
+      "repository_url": "https://github.com/apache/lucene",
+      "tag_url": "https://github.com/apache/lucene/releases/tag/releases%2Flucene-solr%2F7.7.3"
+    },
+    {
+      "repository": "yaml/libyaml",
+      "version": "0.2.5",
+      "tag": "0.2.5",
+      "repository_url": "https://github.com/yaml/libyaml",
+      "tag_url": "https://github.com/yaml/libyaml/releases/tag/0.2.5"
+    },
+    {
+      "repository": "elastic/elasticsearch",
+      "version": "6.8.1",
+      "tag": "v6.8.1",
+      "repository_url": "https://github.com/elastic/elasticsearch",
+      "tag_url": "https://github.com/elastic/elasticsearch/releases/tag/v6.8.1"
+    },
+    {
+      "repository": "twbs/bootstrap",
+      "version": "4.3.1",
+      "tag": "v4.3.1",
+      "repository_url": "https://github.com/twbs/bootstrap",
+      "tag_url": "https://github.com/twbs/bootstrap/releases/tag/v4.3.1"
+    },
+    {
+      "repository": "vuejs/vue",
+      "version": "2.6.10",
+      "tag": "v2.6.10",
+      "repository_url": "https://github.com/vuejs/vue",
+      "tag_url": "https://github.com/vuejs/vue/releases/tag/v2.6.10"
+    },
+    {
+      "repository": "carrotsearch/hppc",
+      "version": "0.7.1",
+      "tag": "0.7.1",
+      "repository_url": "https://github.com/carrotsearch/hppc",
+      "tag_url": "https://github.com/carrotsearch/hppc/releases/tag/0.7.1"
+    },
+    {
+      "repository": "JodaOrg/joda-time",
+      "version": "2.10.1",
+      "tag": "v2.10.1",
+      "repository_url": "https://github.com/JodaOrg/joda-time",
+      "tag_url": "https://github.com/JodaOrg/joda-time/releases/tag/v2.10.1"
+    },
+    {
+      "repository": "tdunning/t-digest",
+      "version": "3.2",
+      "tag": "t-digest-3.2",
+      "repository_url": "https://github.com/tdunning/t-digest",
+      "tag_url": "https://github.com/tdunning/t-digest/releases/tag/t-digest-3.2"
+    },
+    {
+      "repository": "HdrHistogram/HdrHistogram",
+      "version": "2.1.9",
+      "tag": "HdrHistogram-2.1.9",
+      "repository_url": "https://github.com/HdrHistogram/HdrHistogram",
+      "tag_url": "https://github.com/HdrHistogram/HdrHistogram/releases/tag/HdrHistogram-2.1.9"
+    },
+    {
+      "repository": "locationtech/spatial4j",
+      "version": "0.7",
+      "tag": "spatial4j-0.7",
+      "repository_url": "https://github.com/locationtech/spatial4j",
+      "tag_url": "https://github.com/locationtech/spatial4j/releases/tag/spatial4j-0.7"
+    },
+    {
+      "repository": "locationtech/jts",
+      "version": "1.15.0",
+      "tag": "jts-1.15.0",
+      "repository_url": "https://github.com/locationtech/jts",
+      "tag_url": "https://github.com/locationtech/jts/releases/tag/jts-1.15.0"
+    },
+    {
+      "repository": "apache/logging-log4j2",
+      "version": "2.11",
+      "tag": "log4j-2.11.0",
+      "repository_url": "https://github.com/apache/logging-log4j2",
+      "tag_url": "https://github.com/apache/logging-log4j2/releases/tag/log4j-2.11.0"
+    }
+  ],
+  "entry_count": 68,
+  "repository_count": 67
+}

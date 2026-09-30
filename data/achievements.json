@@ -1,0 +1,669 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-09-30",
+  "scope": "Publicly documented GitHub-native profile achievements and highlights; not a claim to enumerate undisclosed internal experiments",
+  "achievements": [
+    {
+      "id": "starstruck",
+      "name": "Starstruck",
+      "status": "active",
+      "tiers": [
+        16,
+        128,
+        512,
+        4096
+      ],
+      "unit": "stars",
+      "sources": [
+        "S21",
+        "S03",
+        "S15"
+      ],
+      "account": "torvalds",
+      "image": "assets/badges/starstruck-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/torvalds?achievement=starstruck&tab=achievements",
+      "tier_images": [
+        "assets/badges/starstruck-default.png",
+        "assets/badges/starstruck-bronze.png",
+        "assets/badges/starstruck-silver.png",
+        "assets/badges/starstruck-gold.png"
+      ],
+      "variants": [
+        "assets/variants/starstruck-default--light.png",
+        "assets/variants/starstruck-default--light-medium.png",
+        "assets/variants/starstruck-default--medium.png",
+        "assets/variants/starstruck-default--medium-dark.png",
+        "assets/variants/starstruck-default--dark.png"
+      ]
+    },
+    {
+      "id": "pull-shark",
+      "name": "Pull Shark",
+      "status": "active",
+      "tiers": [
+        2,
+        16,
+        128,
+        1024
+      ],
+      "unit": "prs",
+      "sources": [
+        "S22",
+        "S03",
+        "S15"
+      ],
+      "account": "ljharb",
+      "image": "assets/badges/pull-shark-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/ljharb?achievement=pull-shark&tab=achievements",
+      "tier_images": [
+        "assets/badges/pull-shark-default.png",
+        "assets/badges/pull-shark-bronze.png",
+        "assets/badges/pull-shark-silver.png",
+        "assets/badges/pull-shark-gold.png"
+      ]
+    },
+    {
+      "id": "pair-extraordinaire",
+      "name": "Pair Extraordinaire",
+      "status": "active",
+      "tiers": [
+        1,
+        10,
+        24,
+        48
+      ],
+      "unit": "coauthored_prs",
+      "sources": [
+        "S23",
+        "S18",
+        "S15"
+      ],
+      "account": "Rongronggg9",
+      "image": "assets/badges/pair-extraordinaire-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements",
+      "tier_images": [
+        "assets/badges/pair-extraordinaire-default.png",
+        "assets/badges/pair-extraordinaire-bronze.png",
+        "assets/badges/pair-extraordinaire-silver.png",
+        "assets/badges/pair-extraordinaire-gold.png"
+      ]
+    },
+    {
+      "id": "galaxy-brain",
+      "name": "Galaxy Brain",
+      "status": "active",
+      "tiers": [
+        2,
+        8,
+        16,
+        32
+      ],
+      "unit": "answers",
+      "sources": [
+        "S24",
+        "S06",
+        "S03",
+        "S15"
+      ],
+      "account": "ljharb",
+      "image": "assets/badges/galaxy-brain-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/ljharb?achievement=galaxy-brain&tab=achievements",
+      "tier_images": [
+        "assets/badges/galaxy-brain-default.png",
+        "assets/badges/galaxy-brain-bronze.png",
+        "assets/badges/galaxy-brain-silver.png",
+        "assets/badges/galaxy-brain-gold.png"
+      ]
+    },
+    {
+      "id": "quickdraw",
+      "name": "Quickdraw",
+      "status": "active",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S25",
+        "S03",
+        "S15"
+      ],
+      "account": "Schweinepriester",
+      "image": "assets/badges/quickdraw-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements",
+      "variants": [
+        "assets/variants/quickdraw-default--light.png",
+        "assets/variants/quickdraw-default--light-medium.png",
+        "assets/variants/quickdraw-default--medium.png",
+        "assets/variants/quickdraw-default--medium-dark.png",
+        "assets/variants/quickdraw-default--dark.png"
+      ]
+    },
+    {
+      "id": "yolo",
+      "name": "YOLO",
+      "status": "active",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S26",
+        "S03",
+        "S15"
+      ],
+      "account": "Schweinepriester",
+      "image": "assets/badges/yolo-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/Schweinepriester?achievement=yolo&tab=achievements"
+    },
+    {
+      "id": "public-sponsor",
+      "name": "Public Sponsor",
+      "status": "active",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S27",
+        "S19",
+        "S02"
+      ],
+      "account": "ljharb",
+      "image": "assets/badges/public-sponsor-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": true,
+      "criteria_evidence": "community",
+      "example": "https://github.com/ljharb?achievement=public-sponsor&tab=achievements",
+      "aliases": [
+        "GitHub Sponsor"
+      ]
+    },
+    {
+      "id": "arctic-code-vault-contributor",
+      "name": "Arctic Code Vault Contributor",
+      "status": "retired",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S04",
+        "S05"
+      ],
+      "account": "JakubOleksy",
+      "image": "assets/badges/arctic-code-vault-contributor-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "official",
+      "example": "https://github.com/JakubOleksy?achievement=arctic-code-vault-contributor&tab=achievements",
+      "aliases": [
+        "2020 GitHub Archive Program"
+      ]
+    },
+    {
+      "id": "mars-2020-contributor",
+      "name": "Mars 2020 Contributor",
+      "status": "retired",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S01",
+        "S02"
+      ],
+      "account": "torvalds",
+      "image": "assets/badges/mars-2020-contributor-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "official",
+      "example": "https://github.com/torvalds?achievement=mars-2020-contributor&tab=achievements",
+      "aliases": [
+        "Mars 2020 Helicopter Contributor",
+        "Mars 2020 Helicopter Mission",
+        "Mars 2020 Helicopter Mission Contributor"
+      ]
+    },
+    {
+      "id": "heart-on-your-sleeve",
+      "name": "Heart On Your Sleeve",
+      "status": "experimental",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S07",
+        "S15"
+      ],
+      "account": null,
+      "image": "assets/badges/heart-on-your-sleeve-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "community",
+      "tier_images": [
+        "assets/badges/heart-on-your-sleeve-default.png",
+        "assets/badges/heart-on-your-sleeve-bronze.png",
+        "assets/badges/heart-on-your-sleeve-silver.png",
+        "assets/badges/heart-on-your-sleeve-gold.png"
+      ],
+      "reported_tiers": [
+        null,
+        16,
+        128,
+        null
+      ],
+      "reported_tiers_evidence": "S15; provisional community reports, not an official specification"
+    },
+    {
+      "id": "open-sourcerer",
+      "name": "Open Sourcerer",
+      "status": "experimental",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S07",
+        "S15"
+      ],
+      "account": null,
+      "image": "assets/badges/open-sourcerer-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "community",
+      "tier_images": [
+        "assets/badges/open-sourcerer-default.png",
+        "assets/badges/open-sourcerer-bronze.png",
+        "assets/badges/open-sourcerer-silver.png",
+        "assets/badges/open-sourcerer-gold.png"
+      ],
+      "reported_tiers": [
+        null,
+        8,
+        16,
+        64
+      ],
+      "reported_tiers_evidence": "S15; provisional community reports, not an official specification"
+    },
+    {
+      "id": "proxima-pioneer",
+      "name": "Proxima Pioneer",
+      "status": "internal",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S10"
+      ],
+      "account": "JakubOleksy",
+      "image": "assets/badges/proxima-pioneer-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "observed-profile",
+      "example": "https://github.com/JakubOleksy?achievement=proxima-pioneer&tab=achievements"
+    },
+    {
+      "id": "proxima-staffshipper",
+      "name": "Proxima Staffshipper",
+      "status": "internal",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S11"
+      ],
+      "account": "JakubOleksy",
+      "image": "assets/badges/proxima-staffshipper-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "observed-profile",
+      "example": "https://github.com/JakubOleksy?achievement=proxima-staffshipper&tab=achievements"
+    },
+    {
+      "id": "proxima-staffuser",
+      "name": "Proxima Staffuser",
+      "status": "internal",
+      "tiers": [],
+      "unit": null,
+      "sources": [
+        "S12"
+      ],
+      "account": "timrogers",
+      "image": "assets/badges/proxima-staffuser-default.png",
+      "checked_on": "2026-09-30",
+      "publicly_earnable": false,
+      "criteria_evidence": "observed-profile",
+      "example": "https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "pro",
+      "name": "Pro",
+      "status": "active",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "id": "developer-program",
+      "name": "Developer Program Member",
+      "status": "active",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "id": "bug-bounty",
+      "name": "Security Bug Bounty Hunter",
+      "status": "active",
+      "sources": [
+        "S01",
+        "S20"
+      ]
+    },
+    {
+      "id": "campus-expert",
+      "name": "GitHub Campus Expert",
+      "status": "active",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "id": "security-advisory",
+      "name": "Security Advisory Credit",
+      "status": "active",
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "id": "github-star",
+      "name": "GitHub Star",
+      "status": "active",
+      "sources": [
+        "S16"
+      ]
+    },
+    {
+      "id": "discussion-answered",
+      "name": "Discussion answered",
+      "status": "retired",
+      "sources": [
+        "S14"
+      ]
+    }
+  ],
+  "legacy": [
+    {
+      "name": "Arctic Code Vault Contributor",
+      "current_name": "Arctic Code Vault Contributor",
+      "image": "assets/legacy/badge-arctic-code-vault-small.png",
+      "era": "2021-04-19/2022-06-09",
+      "sources": [
+        "S02",
+        "S03",
+        "S15"
+      ]
+    },
+    {
+      "name": "GitHub Sponsor",
+      "current_name": "Public Sponsor",
+      "image": "assets/legacy/badge-sponsors-small.png",
+      "era": "2021-04-19/2022-06-09",
+      "sources": [
+        "S02",
+        "S03",
+        "S15"
+      ]
+    },
+    {
+      "name": "Mars 2020 Helicopter Contributor",
+      "current_name": "Mars 2020 Contributor",
+      "image": "assets/legacy/badge-mars-2020-small.png",
+      "era": "2021-04-19/2022-06-09",
+      "sources": [
+        "S02",
+        "S03",
+        "S15"
+      ]
+    }
+  ],
+  "proxima_evidence": [
+    {
+      "id": "proxima-pioneer",
+      "name": "Proxima Pioneer",
+      "account": "JakubOleksy",
+      "unlocked_at_utc": "2023-06-01T17:34:35Z",
+      "profile_url": "https://github.com/JakubOleksy?achievement=proxima-pioneer&tab=achievements",
+      "detail_url": "https://github.com/users/JakubOleksy/achievements/proxima-pioneer/detail",
+      "label": "M0 Participant",
+      "event": "contributed to Proxima POC",
+      "checked_on": "2026-09-30",
+      "event_visibility": "inaccessible",
+      "request_accept": "text/fragment+html"
+    },
+    {
+      "id": "proxima-staffshipper",
+      "name": "Proxima Staffshipper",
+      "account": "JakubOleksy",
+      "unlocked_at_utc": "2024-08-21T22:28:27Z",
+      "profile_url": "https://github.com/JakubOleksy?achievement=proxima-staffshipper&tab=achievements",
+      "detail_url": "https://github.com/users/JakubOleksy/achievements/proxima-staffshipper/detail",
+      "label": "M8 Participant",
+      "event": "shipped Proxima Staffship instance",
+      "checked_on": "2026-09-30",
+      "event_visibility": "inaccessible",
+      "request_accept": "text/fragment+html"
+    },
+    {
+      "id": "proxima-staffuser",
+      "name": "Proxima Staffuser",
+      "account": "timrogers",
+      "unlocked_at_utc": "2023-08-16T18:28:07Z",
+      "profile_url": "https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements",
+      "detail_url": "https://github.com/users/timrogers/achievements/proxima-staffuser/detail",
+      "label": "When your team is on Proxima",
+      "event": "onboarded to Proxima",
+      "checked_on": "2026-09-30",
+      "event_visibility": "inaccessible",
+      "request_accept": "text/fragment+html"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Profile reference",
+      "url": "https://docs.github.com/en/account-and-profile/reference/profile-reference",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S02",
+      "title": "Open source goes to Mars (2021-04-19)",
+      "url": "https://github.blog/news-insights/company-news/open-source-goes-to-mars/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S03",
+      "title": "Introducing Achievements (2022-06-09)",
+      "url": "https://github.blog/news-insights/product-news/introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S04",
+      "title": "Arctic Code Vault snapshot (2020-02-02)",
+      "url": "https://github.blog/open-source/maintainers/the-arctic-code-vault-starts-production-and-your-open-source-projects-are-being-archived/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S05",
+      "title": "GitHub Archive Program",
+      "url": "https://archiveprogram.github.com/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S06",
+      "title": "Achievements disabled in GitHub Community (2024-02-06)",
+      "url": "https://github.com/orgs/community/discussions/106536",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S07",
+      "title": "Experimental achievements enabled in error (2026-03-27)",
+      "url": "https://github.com/orgs/community/discussions/190746",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S08",
+      "title": "Profile rendering incident; staff update 2026-09-23",
+      "url": "https://github.com/orgs/community/discussions/203416",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S09",
+      "title": "Profiles now show the highest achievement tier (2026-09-11)",
+      "url": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S10",
+      "title": "JakubOleksy — Proxima Pioneer",
+      "url": "https://github.com/JakubOleksy?achievement=proxima-pioneer&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S11",
+      "title": "JakubOleksy — Proxima Staffshipper",
+      "url": "https://github.com/JakubOleksy?achievement=proxima-staffshipper&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S12",
+      "title": "timrogers — Proxima Staffuser",
+      "url": "https://github.com/timrogers?achievement=proxima-staffuser&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S13",
+      "title": "GitHub Enterprise Cloud with data residency",
+      "url": "https://github.blog/engineering/engineering-principles/github-enterprise-cloud-with-data-residency/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S14",
+      "title": "Discussion answered highlight replaced; support reported by a user",
+      "url": "https://github.com/orgs/community/discussions/31629",
+      "kind": "community",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S15",
+      "title": "Schweinepriester — catalogue, experiments and historical artwork",
+      "url": "https://github.com/Schweinepriester/github-profile-achievements",
+      "kind": "community",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S16",
+      "title": "GitHub Stars",
+      "url": "https://stars.github.com/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S17",
+      "title": "Manage achievement visibility",
+      "url": "https://docs.github.com/en/account-and-profile/how-tos/contribution-settings/manage-visibility-settings-for-private-contributions-and-achievements",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S18",
+      "title": "Create a commit with multiple authors",
+      "url": "https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S19",
+      "title": "GitHub Sponsors",
+      "url": "https://github.com/sponsors",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S20",
+      "title": "GitHub Bug Bounty",
+      "url": "https://bounty.github.com/",
+      "kind": "official",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S21",
+      "title": "torvalds — Starstruck awarded card",
+      "url": "https://github.com/torvalds?achievement=starstruck&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S22",
+      "title": "ljharb — Pull Shark awarded card",
+      "url": "https://github.com/ljharb?achievement=pull-shark&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S23",
+      "title": "Rongronggg9 — Pair Extraordinaire awarded card",
+      "url": "https://github.com/Rongronggg9?achievement=pair-extraordinaire&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S24",
+      "title": "ljharb — Galaxy Brain awarded card",
+      "url": "https://github.com/ljharb?achievement=galaxy-brain&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S25",
+      "title": "Schweinepriester — Quickdraw awarded card",
+      "url": "https://github.com/Schweinepriester?achievement=quickdraw&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S26",
+      "title": "Schweinepriester — YOLO awarded card",
+      "url": "https://github.com/Schweinepriester?achievement=yolo&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    },
+    {
+      "id": "S27",
+      "title": "ljharb — Public Sponsor awarded card",
+      "url": "https://github.com/ljharb?achievement=public-sponsor&tab=achievements",
+      "kind": "observed",
+      "checked_on": "2026-09-30"
+    }
+  ]
+}
