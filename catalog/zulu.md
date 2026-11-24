@@ -5,7 +5,7 @@ Umhlahlandlela wamabheji e-GitHub asesidlangalaleni, omlando, okuhlola nangaphak
 
 **Kuhlolwe: 2026-09-30** · Izimpumelelo eziyi-14 · izimpawu zephrofayela eziyi-7
 
-[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
+[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [العربية](arabic.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
 
 > Kufakwe amabheji abhalwe esidlangalaleni kuphela; konke ukuhlola kwangaphakathi okungadalulwanga akukwazi ukuqinisekiswa.
 

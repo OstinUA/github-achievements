@@ -5,7 +5,7 @@ GitHub 公開、歷史、實驗與內部個人資料徽章的參考目錄。
 
 **查核日期: 2026-09-30** · 14 項成就 · 7 種個人資料標記
 
-[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
+[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [العربية](arabic.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
 
 > 僅收錄公開紀錄的徽章；無法確認未公開的內部實驗是否全部涵蓋。
 

@@ -17,7 +17,7 @@ def relative(target, output):
     return Path(os.path.relpath(ROOT / target, output.parent)).as_posix()
 
 
-def render(data, locale, languages, output):
+def render(data, locale, languages, output, direction="ltr"):
     t = locale["ui"]
     link = lambda path: relative(path, output)
     sources = {s["id"]: s for s in data["sources"]}
@@ -93,6 +93,9 @@ def render(data, locale, languages, output):
     for s in data["sources"]:
         lines.append(f'- **{s["id"]}** — [{s["title"]}]({s["url"]}) · {t[s["kind"]]}')
     lines += ["", f'[{t["home"]}]({link("README.md")}) · [{t["contribute"]}]({link("CONTRIBUTING.md")})', ""]
+    if direction == "rtl":
+        # GitHub keeps tables and lists left-to-right unless the block is wrapped.
+        lines = lines[:1] + ['<div dir="rtl">', ""] + lines[1:] + ["</div>", ""]
     return "\n".join(lines)
 
 
@@ -103,11 +106,14 @@ def build(check=False):
     for lang in languages:
         locale = read(ROOT / f'i18n/{lang["code"]}.json')
         output = ROOT / f'catalog/{lang["file"]}.md'
-        content = render(data, locale, languages, output)
+        content = render(data, locale, languages, output, lang.get("dir", "ltr"))
         outputs = [(output, content)]
         if lang["code"] != "en":
             stub = ROOT / f'lang/{lang["file"]}.md'
-            outputs.append((stub, f'# {locale["ui"]["title"]}\n\n[{locale["ui"]["open_catalog"]}](../catalog/{lang["file"]}.md)\n\n{locale["ui"]["moved"]}\n'))
+            stub_text = f'# {locale["ui"]["title"]}\n\n[{locale["ui"]["open_catalog"]}](../catalog/{lang["file"]}.md)\n\n{locale["ui"]["moved"]}\n'
+            if lang.get("dir") == "rtl":
+                stub_text = f'<div dir="rtl">\n\n{stub_text}\n</div>\n'
+            outputs.append((stub, stub_text))
         for path, value in outputs:
             if not path.exists() or path.read_text(encoding="utf-8") != value:
                 changed.append(path.relative_to(ROOT).as_posix())

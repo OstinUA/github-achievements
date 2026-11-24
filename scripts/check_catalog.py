@@ -42,6 +42,7 @@ def main():
     expect(len(source_ids) == len(data["sources"]), "Duplicate source IDs")
     expect(len({l["code"] for l in languages}) == len(languages), "Duplicate language codes")
     expect(len({l["file"] for l in languages}) == len(languages), "Duplicate language filenames")
+    expect(all(l.get("dir", "ltr") in ("ltr", "rtl") for l in languages), "Invalid language direction")
     for a in data["achievements"]:
         expect(a["status"] in GROUPS, f'{a["id"]}: unknown status')
         expect(a["publicly_earnable"] == (a["status"] == "active"), f'{a["id"]}: earnability/status conflict')

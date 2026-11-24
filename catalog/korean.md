@@ -5,7 +5,7 @@ GitHub 프로필의 공개, 과거, 실험 및 내부 배지 안내서입니다.
 
 **확인 날짜: 2026-09-30** · 업적 14개 · 프로필 표시 7개
 
-[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
+[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [العربية](arabic.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
 
 > 공개적으로 기록된 배지만 다룹니다. 미공개 내부 실험을 모두 확인할 수는 없습니다.
 
