@@ -1,8 +1,8 @@
 # Maintaining the catalogue / Обновление каталога
 
-The catalogue is built from one set of records and 25 complete translations. Edit the source files, then regenerate the Markdown; do not edit `catalog/*.md` or `lang/*.md` directly.
+The catalogue is built from one set of records and 26 complete translations. Edit the source files, then regenerate the Markdown; do not edit `catalog/*.md` or `lang/*.md` directly.
 
-Каталог собирается из единой базы и 25 полных переводов. Редактируйте исходные данные и переводы, затем пересобирайте Markdown. Страницы в `catalog/` и ссылки в `lang/` генерируются автоматически.
+Каталог собирается из единой базы и 26 полных переводов. Редактируйте исходные данные и переводы, затем пересобирайте Markdown. Страницы в `catalog/` и ссылки в `lang/` генерируются автоматически.
 
 ## Update a record / Изменить запись
 

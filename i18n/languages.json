@@ -15,6 +15,12 @@
     "name": "Українська"
   },
   {
+    "code": "ar",
+    "dir": "rtl",
+    "file": "arabic",
+    "name": "العربية"
+  },
+  {
     "code": "zh-CN",
     "file": "chinese",
     "name": "简体中文"

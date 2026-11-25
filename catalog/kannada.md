@@ -5,7 +5,7 @@ GitHub ಸಾರ್ವಜನಿಕ, ಐತಿಹಾಸಿಕ, ಪ್ರಾಯೋ
 
 **ಪರಿಶೀಲಿಸಿದ ದಿನಾಂಕ: 2026-09-30** · 14 ಸಾಧನೆಗಳು · 7 ಪ್ರೊಫೈಲ್ ಗುರುತುಗಳು
 
-[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
+[English](english.md) · [Русский](russian.md) · [Українська](ukrainian.md) · [العربية](arabic.md) · [简体中文](chinese.md) · [正體中文](traditional-chinese.md) · [Nederlands](dutch.md) · [Français](french.md) · [Deutsch](german.md) · [Ελληνικά](greek.md) · [हिन्दी](hindi.md) · [Bahasa Indonesia](indonesian.md) · [Italiano](italian.md) · [ಕನ್ನಡ](kannada.md) · [한국어](korean.md) · [ଓଡ଼ିଆ](odia.md) · [Naijá](pidgin.md) · [Polski](polish.md) · [Português](portuguese.md) · [Español](spanish.md) · [Kiswahili](swahili.md) · [தமிழ்](tamil.md) · [తెలుగు](telugu.md) · [Türkçe](turkish.md) · [Tiếng Việt](vietnamese.md) · [isiZulu](zulu.md)
 
 > ಸಾರ್ವಜನಿಕವಾಗಿ ದಾಖಲಾಗಿರುವ ಬ್ಯಾಡ್ಜ್‌ಗಳು ಮಾತ್ರ; ಬಹಿರಂಗಪಡಿಸದ ಆಂತರಿಕ ಪ್ರಯೋಗಗಳ ಪೂರ್ಣತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗದು.
 

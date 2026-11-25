@@ -12,7 +12,7 @@
 
 [**Explore in English →**](catalog/english.md) · [**Открыть на русском →**](catalog/russian.md) · [**Українською →**](catalog/ukrainian.md)
 
-**14 documented achievements · 7 profile highlights · 25 languages**
+**14 documented achievements · 7 profile highlights · 26 languages**
 
 Last researched: **30 September 2026**
 
@@ -46,17 +46,18 @@ The catalogue includes tier artwork, skin-tone variants, historical names and de
 
 | | | | | |
 | --- | --- | --- | --- | --- |
-| [English](catalog/english.md) | [Русский](catalog/russian.md) | [Українська](catalog/ukrainian.md) | [简体中文](catalog/chinese.md) | [正體中文](catalog/traditional-chinese.md) |
-| [Nederlands](catalog/dutch.md) | [Français](catalog/french.md) | [Deutsch](catalog/german.md) | [Ελληνικά](catalog/greek.md) | [हिन्दी](catalog/hindi.md) |
-| [Bahasa Indonesia](catalog/indonesian.md) | [Italiano](catalog/italian.md) | [ಕನ್ನಡ](catalog/kannada.md) | [한국어](catalog/korean.md) | [ଓଡ଼ିଆ](catalog/odia.md) |
-| [Naijá](catalog/pidgin.md) | [Polski](catalog/polish.md) | [Português](catalog/portuguese.md) | [Español](catalog/spanish.md) | [Kiswahili](catalog/swahili.md) |
-| [தமிழ்](catalog/tamil.md) | [తెలుగు](catalog/telugu.md) | [Türkçe](catalog/turkish.md) | [Tiếng Việt](catalog/vietnamese.md) | [isiZulu](catalog/zulu.md) |
+| [English](catalog/english.md) | [Русский](catalog/russian.md) | [Українська](catalog/ukrainian.md) | [العربية](catalog/arabic.md) | [简体中文](catalog/chinese.md) |
+| [正體中文](catalog/traditional-chinese.md) | [Nederlands](catalog/dutch.md) | [Français](catalog/french.md) | [Deutsch](catalog/german.md) | [Ελληνικά](catalog/greek.md) |
+| [हिन्दी](catalog/hindi.md) | [Bahasa Indonesia](catalog/indonesian.md) | [Italiano](catalog/italian.md) | [ಕನ್ನಡ](catalog/kannada.md) | [한국어](catalog/korean.md) |
+| [ଓଡ଼ିଆ](catalog/odia.md) | [Naijá](catalog/pidgin.md) | [Polski](catalog/polish.md) | [Português](catalog/portuguese.md) | [Español](catalog/spanish.md) |
+| [Kiswahili](catalog/swahili.md) | [தமிழ்](catalog/tamil.md) | [తెలుగు](catalog/telugu.md) | [Türkçe](catalog/turkish.md) | [Tiếng Việt](catalog/vietnamese.md) |
+| [isiZulu](catalog/zulu.md) |  |  |  |  |
 
 ## Repository map
 
 ```text
 README.md                 Entry point and language navigation
-catalog/                  Complete catalogue in each of 25 languages
+catalog/                  Complete catalogue in each of 26 languages
 data/achievements.json    Shared records, tiers, status, evidence and sources
 i18n/                     Translated descriptions and interface text
 assets/badges/            Default badges and tier artwork
